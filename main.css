@@ -25,7 +25,8 @@ color: lightgray;
   margin: 20px auto;
   border-radius: 10px;
   padding: 10px;
-  background: lightgray;
+  background: #eee; 
+ 
 }
 
 button {
