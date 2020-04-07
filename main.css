@@ -57,15 +57,14 @@ text-align: left;
 }
   #GH {
   width:auto;
-  max-width:25%;
+  max-width:15%;
   height:auto;
-  margin-right: -15px;
-  margin-left: 10px;
+  margin-left: 180px;
 }
 
 #FSA {
 width:auto;
-  max-width:25%;
+  max-width:15%;
   height:auto;
   margin-right: 180px;
   margin-left: 10px;
